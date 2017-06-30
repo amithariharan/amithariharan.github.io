@@ -1,0 +1,19 @@
+.hero {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-image: url('/images/bg.jpg');
+  opacity: .8;
+  background-size: cover;
+  background-repeat: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+  color: #fff;
+  background-color: #ccc;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
